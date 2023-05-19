@@ -34,3 +34,5 @@ const accidente1 = new Accidente(fechaAccidente, "Choque multiple", 2, [carroCar
 
 console.log(accidente1)
 
+//agregando un pequeño cambio
+
